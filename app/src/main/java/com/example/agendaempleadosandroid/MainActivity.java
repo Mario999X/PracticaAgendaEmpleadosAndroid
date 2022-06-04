@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             1. Dependencias Room
             2. Generacion de entidades y demas (data -> 1.DataEntity, 2.DataDao, 3.DataRoomDatabase)
             3. Momento Layout App
-            5. Programacion de actividades y fragmentos.
+            4. Programacion de actividades y fragmentos.
 
                 !! [Android Studio] MIRAR LA FUNCION "App Inspection" PARA LA BASE DE DATOS,
             SOLO FUNCIONA CON LA APP EN MOVIMIENTO
