@@ -13,5 +13,7 @@ Cada empleado tiene las siguientes características:
     1. Explicación básica de como montar la BBDD.
     2. Un menú desplegable, con acceso a dos fragmentos.
         3. Fragmento que permite añadir un empleado, eliminar a uno basándose en su ID, o eliminarlos a todos.
-        4. Fragmento que muestra una lista, se permite cambiar el orden de los empleados (ID y Alfabéticamente), y filtrar por departamento. Además, se incluye una vista detalle (activity) al pulsar sobre los elementos de la misma.
+        4. Fragmento que muestra una lista, se permite cambiar el orden de los empleados (ID y Alfabéticamente), 
+        y filtrar por departamento. 
+        Además, se incluye una vista detalle (activity) al pulsar sobre los elementos de la misma.
     5. Layouts diseñados tanto para Portrait y Landscape.
