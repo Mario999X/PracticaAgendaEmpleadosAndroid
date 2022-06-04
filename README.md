@@ -16,4 +16,4 @@ Cada empleado tiene las siguientes características:
         4. Fragmento que muestra una lista, se permite cambiar el orden de los empleados (ID y Alfabéticamente), 
         y filtrar por departamento. 
         Además, se incluye una vista detalle (activity) al pulsar sobre los elementos de la misma.
-    5. Layouts diseñados tanto para Portrait y Landscape.
+    5. Layouts diseñados para Portrait y Landscape.
