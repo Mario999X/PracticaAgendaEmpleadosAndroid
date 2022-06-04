@@ -3,6 +3,7 @@
 Se trata de una aplicación Android, pensada para manejar una lista de empleados.
 Se emplea una BBDD Room para almacenar los datos.
 Cada empleado tiene las siguientes características:
+
     - ID (auto-generado).
     - Nombre.
     - Departamento.
